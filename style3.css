@@ -1,0 +1,15 @@
+.purple-text {
+	color: purple;
+}
+
+p[draggable] {
+	color: gold;
+}
+
+.note {
+	color: teal;
+}
+
+.sub-title {
+	font-weight: normal;
+}
